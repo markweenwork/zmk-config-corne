@@ -57,7 +57,7 @@
         segment-offset = <0>;
         page-offset = <0>;
         display-offset = <0>;
-        multiplex-ratio = <71>;
+        multiplex-ratio = <39>;
         segment-remap;
         com-invdir;
         inversion-on;
