@@ -69,7 +69,7 @@
         zmk,matrix-transform = &default_transform;
     };
     
-    default_transform: matrix_transform {
+    default_transform: matrix_transform1 {
     compatible = "zmk,matrix-transform";
     rows = <5>;
     columns = <10>;
