@@ -78,7 +78,7 @@
    &kp TAB &kp Q &kp W &kp E &kp R &kp Y &kp U  &kp I     &kp O   &kp P    
    &kp A &kp S &kp D &kp F &kp G   &kp H &kp J  &kp K     &kp L   &kp SEMI 
    &kp Z &kp X &kp C &kp V &kp B   &kp N &kp M  &kp COMMA &kp DOT &kp FSLH
-   &to 0 LGUI &kp SPACE &kp A &td_mt &kp LEFT_CONTROL &kp RET &mo 2 &kp RALT
+   &to 0 &kp SPACE &kp A &td_mt &kp LEFT_CONTROL &kp RET &mo 2 &kp RALT
                         >;
                 };
 
